@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    font-family: "Urbanist", 'Courier New', Courier, monospace;
+}
+
+h1,h2,h3,h4,p {
+    margin: 0;
+    padding: 0;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+a, li {
+    display: inline-block;
+}
+::-webkit-scrollbar {
+    display: none;
+}
